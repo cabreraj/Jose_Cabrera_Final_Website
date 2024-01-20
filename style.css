@@ -855,7 +855,7 @@ a:active {
                 position: relative;
                 width: 1447px;
                 height: 336px;
-                top: 2300px;
+                top: 2120px;
                 left: 1px;
                 }
                 
@@ -3471,7 +3471,7 @@ list-style-type: none;
   .home-page .text-wrapper-8 {
     position: absolute;
     width: 565px;
-    top: 38px;
+    top: 15px;
     left: 155px;
     font-family: "Mulish-Bold", Helvetica;
     font-weight: 700;
@@ -3492,7 +3492,7 @@ list-style-type: none;
   .home-page .whether-you-want-to {
     position: absolute;
     width: 1379px;
-    top: -40px;
+    top: -65px;
     left: 0;
     font-family: "Mulish-SemiBold", Helvetica;
     font-weight: 300;
