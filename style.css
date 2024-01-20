@@ -801,8 +801,8 @@ a:active {
         background:black;
         border:2px solid white;
         padding:10px;
-        top: 2000px;
-        left: 200px;
+        top: 2100px;
+        left: 400px;
 
 }
 
@@ -840,7 +840,7 @@ a:active {
             .labSkills ol.essential-skills-list {
               position: relative;
               width: 1236px;
-              top: 2100px;
+              top: 1930px;
               left: 20px;
               font-family: "Mulish-Bold", Helvetica;
               font-weight: 300px;
