@@ -1266,6 +1266,15 @@ left: 198px;
 object-fit: cover;
 }
 
+@media (mas-width: 700px){
+.prerequisite .table{
+position: relative;
+top:0;
+margin:auto;
+display:block;
+    }
+}
+
 .prerequisite .group2 {
 position: absolute;
 width: 1328px;
