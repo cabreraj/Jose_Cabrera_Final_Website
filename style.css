@@ -655,48 +655,7 @@ a:active {
   white-space: nowrap;
   }
   
-  
-  .labSkills .text-wrapper-2 {
-    position: absolute;
-    top: 21px;
-    left: 1048px;
-    font-family: "Inter-SemiBold", Helvetica;
-    font-weight: 600;
-    color: #fffafa;
-    font-size: 20px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-    }
-  
-    .labSkills .text-wrapper-3 {
-      position: absolute;
-      top: 21px;
-      left: 1278px;
-      font-family: "Inter-SemiBold", Helvetica;
-      font-weight: 600;
-      color: #fffafa;
-      font-size: 20px;
-      text-align: center;
-      letter-spacing: 0;
-      line-height: normal;
-      white-space: nowrap;
-      }
-  
-      .labSkills .text-wrapper-4 {
-        position: absolute;
-        top: 28px;
-        left: 273px;
-        font-family: "Inter-SemiBold", Helvetica;
-        font-weight: 600;
-        color: #fdfafa;
-        font-size: 20px;
-        text-align: center;
-        letter-spacing: 0;
-        line-height: normal;
-        white-space: nowrap;
-        }
+      
   
      .labSkills .chemlogo {
     position: absolute; 
@@ -773,7 +732,7 @@ a:active {
       top: 1200px;
       left:39px;
       font-family: "Mulish-Semibold", Helvetica;
-      font-weight: 300px;
+      font-weight: 300;
       color:#000000;
       font-size: 25px;
       line-height: normal;
