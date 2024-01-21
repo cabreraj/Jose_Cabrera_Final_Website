@@ -759,10 +759,9 @@ a:active {
         position: relative;
         aspect-ratio: 16/9;
         width: 100%;
-        
         border:1px solid white;
         padding:10px;
-        top: 2100px;
+        top: 1500px;
         left: 400px;
 
 }
@@ -801,7 +800,7 @@ a:active {
             .labSkills ol.essential-skills-list {
               position: relative;
               width: 1236px;
-              top: 2000px;
+              top: 1180px;
               left: 20px;
               font-family: "Mulish-Bold", Helvetica;
               font-weight: 300px;
