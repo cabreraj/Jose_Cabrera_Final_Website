@@ -729,7 +729,7 @@ a:active {
     .labSkills .essential-lab-skills {
       position: absolute;
       width: 1352px;
-      top: 1000px;
+      top: 1190px;
       left:39px;
       font-family: "Mulish-Semibold", Helvetica;
       font-weight: 300;
@@ -757,7 +757,9 @@ a:active {
 
        .labSkills .safety-video {
         position: absolute;
-        background:black;
+        aspect-ratio: 16/9;
+        width: 100%;
+        
         border:1px solid white;
         padding:10px;
         top: 2100px;
