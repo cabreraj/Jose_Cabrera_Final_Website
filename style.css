@@ -345,7 +345,7 @@ a:active {
 
 
                 .labSafety .prepare {
-                  position: absolute;
+                  position: fixed;
                   width: 1352px;
                   top: 3501px;
                   left:39px;
